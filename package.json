@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@emotion/core": "^10.0.22",
+    "@emotion/styled": "^10.0.23",
+    "emotion-reset": "^2.0.3",
+    "styled-map": "^3.3.0",
+    "webfontloader": "^1.6.28"
+  }
+}
